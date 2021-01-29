@@ -1,4 +1,4 @@
 # cba-fashion
-web-development
-jessua-pasoquin
-bsit 3 - 1
+#web-development
+#jessua-pasoquin
+#bsit 3 - 1
